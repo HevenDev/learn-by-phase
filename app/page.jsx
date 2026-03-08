@@ -51,7 +51,7 @@ const PHASES = [
     subtitle: "How the internet works — and how it gets broken",
     color: "#ff5252",
     tag: "Net · Security",
-    concepts: 8,
+    concepts: 10,
     topics: ["OSI / TCP/IP", "HTTP Deep Dive", "TLS & HTTPS", "JWT & Auth", "OWASP Top 10", "Rate Limiting", "Nginx & Infra", "TryHackMe Path"],
     status: "active",
   },

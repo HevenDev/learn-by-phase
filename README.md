@@ -53,7 +53,7 @@ Algorithmic thinking applied to real systems. Covers Big O analysis, arrays and 
 
 ## Built With
 
-- Next.js 14
+- Next.js 16
 - Tailwind CSS
 - Deployed on Vercel
 
